@@ -1,0 +1,34 @@
+_repo: Mr.-Wicker-s-Window_28952
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Ward, Lynd
+    alias: Ward, Lynd Kendall
+    birthdate: 1905
+    deathdate: 1985
+    gutenberg_agent_id: '33604'
+    url: http://www.gutenberg.org/2009/agents/33604
+    wikipedia: http://en.wikipedia.org/wiki/Lynd_Ward
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dawson, Carley
+    gutenberg_agent_id: '33603'
+    url: http://www.gutenberg.org/2009/agents/33603
+description: ''
+gutenberg_issued: '2009-05-24'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28952'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Magic -- Juvenile fiction'
+- !lcsh 'Fantasy literature'
+title: Mr. Wicker's Window
+url: http://www.gutenberg.org/ebooks/28952
